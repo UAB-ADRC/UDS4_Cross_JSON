@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.Rbuildignore
 Json_SOPS.Rproj
 json_parser/
 *.ipynb
